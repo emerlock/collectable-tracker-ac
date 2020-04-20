@@ -1,0 +1,10 @@
+{
+	"auth": {
+		"trackerapp47e36b83": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": [],
+			"customAuth": false
+		}
+	}
+}

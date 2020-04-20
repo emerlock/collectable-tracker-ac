@@ -37,3 +37,6 @@ amplifyconfiguration.json
 amplify-build-config.json
 amplify-gradle-config.json
 amplifyxc.config
+
+# not to share if public
+amplify/team-provider-info.json
